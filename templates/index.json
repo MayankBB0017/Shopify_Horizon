@@ -95,7 +95,7 @@
                 "label": "OPTIONAL LINK",
                 "link": "shopify://collections/all",
                 "label_2": "OPTIONAL LINK",
-                "link_2": "shopify://policies/privacy-policy",
+                "link_2": "shopify://collections/frontpage",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
