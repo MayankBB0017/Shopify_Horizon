@@ -4053,3 +4053,12 @@ text-component {
     line-height: 28px;
     letter-spacing: 0%;
 }
+
+.shopify-section-group-footer-group .menu__heading__default {
+    display: contents;
+    font-family: Jost;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    vertical-align: middle;
+}
