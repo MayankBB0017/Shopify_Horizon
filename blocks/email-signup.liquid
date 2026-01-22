@@ -73,6 +73,7 @@
         {% if block_settings.display_type == 'text' %}
           {{ block_settings.label }}
         {% else %}
+          {%  comment %}
           <svg
             viewBox="0 0 20 20"
             xmlns="http://www.w3.org/2000/svg"
@@ -82,6 +83,12 @@
           >
             {% render 'icon', icon: 'arrow' %}
           </svg>
+          {%  endcomment %}
+
+          <svg width="6" height="8" viewBox="0 0 6 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0.329346 7.37646L4.32935 3.87646L0.329346 0.376465" stroke="black"/>
+          </svg>
+
         {% endif %}
       </button>
     </div>
