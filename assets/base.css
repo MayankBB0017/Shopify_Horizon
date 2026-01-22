@@ -4095,3 +4095,15 @@ text-component {
     text-decoration-offset: 0%;
     text-decoration-thickness: 0%;
 }
+
+.collection-card__content .text-block {
+    background-color: transparent;
+    color: #fff;
+    font-family: Jost;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+}
