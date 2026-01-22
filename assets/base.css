@@ -4071,3 +4071,8 @@ text-component {
     line-height: 46px;
     text-align: center;
 }
+
+.button-flex {
+    display: flex;
+    gap: 20px;
+}
