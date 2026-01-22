@@ -4063,3 +4063,11 @@ text-component {
     line-height: 26px;
     vertical-align: middle;
 }
+
+.heading h2 {
+    font-family: LT Remark;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    text-align: center;
+}
