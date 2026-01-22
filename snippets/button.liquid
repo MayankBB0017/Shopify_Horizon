@@ -36,27 +36,19 @@
 
 
   
-<a
-  {% if link == blank %}
-    role="link"
-    aria-disabled="true"
-  {% else %}
-    href="{{ link }}"
-  {% endif %}
-  class="
-    size-style
-    {{ block_settings.style_class }}
-    {{ block_settings.style_class }}--{{ block.id }}
-  "
-  style="{% render 'size-style', settings: block_settings %}"
-  {%- if block_settings.open_in_new_tab -%}
-    target="_blank"
-    rel="noopener noreferrer"
+  {%- if block_settings.link_2 != blank -%}
+    <a
+      href="{{ block_settings.link_2 }}"
+      class="
+        size-style
+        {{ block_settings.style_class }}
+        {{ block_settings.style_class }}--{{ block.id }}-secondary
+      "
+      style="{% render 'size-style', settings: block_settings %}"
+    >
+      {{ block_settings.label_2 }}
+    </a>
   {%- endif -%}
-  {{ block.shopify_attributes }}
->
-  {{ block_settings.label }}
-</a>
 
 </div>
 
