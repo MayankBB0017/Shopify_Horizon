@@ -92,7 +92,22 @@
             "button_JBrYgx": {
               "type": "button",
               "settings": {
-                "label": "Shop now",
+                "label": "OPTIONAL LINK",
+                "link": "shopify://collections/all",
+                "open_in_new_tab": false,
+                "style_class": "button",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            },
+            "button_HdPaTr": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "OPTIONAL LINK",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button",
@@ -107,7 +122,8 @@
           "block_order": [
             "text_m3E6jF",
             "text_6Gptgm",
-            "button_JBrYgx"
+            "button_JBrYgx",
+            "button_HdPaTr"
           ]
         }
       },
