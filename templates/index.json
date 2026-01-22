@@ -560,8 +560,8 @@
       "settings": {
         "collection_list": [
           "bikinis",
-          "ropa-de-playa-1",
-          "ropa-de-playa"
+          "ropa-de-playa",
+          "ropa-de-playa-1"
         ],
         "layout_type": "grid",
         "carousel_on_mobile": false,
