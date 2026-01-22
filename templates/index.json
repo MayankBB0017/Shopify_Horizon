@@ -106,6 +106,7 @@
             "button_HdPaTr": {
               "type": "button",
               "name": "t:names.button",
+              "disabled": true,
               "settings": {
                 "label": "OPTIONAL LINK",
                 "link": "shopify://collections/all",
