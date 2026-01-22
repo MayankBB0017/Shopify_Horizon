@@ -140,7 +140,7 @@
           "name": "t:names.menu",
           "settings": {
             "menu": "robin",
-            "heading": "",
+            "heading": "Robin",
             "menu_spacing": 12,
             "show_as_accordion": false,
             "accordion_icon": "caret",
@@ -161,7 +161,7 @@
           "name": "t:names.menu",
           "settings": {
             "menu": "ayuda",
-            "heading": "",
+            "heading": "Ayuda",
             "menu_spacing": 12,
             "show_as_accordion": false,
             "accordion_icon": "caret",
@@ -182,7 +182,7 @@
           "name": "t:names.menu",
           "settings": {
             "menu": "contact",
-            "heading": "",
+            "heading": "Contacto",
             "menu_spacing": 12,
             "show_as_accordion": false,
             "accordion_icon": "caret",
