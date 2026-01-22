@@ -4044,7 +4044,8 @@ text-component {
     width: 100%;
     max-width: 367px;
 }
-.shopify-section-group-footer-group .group-block-content p {
+
+/* .shopify-section-group-footer-group .group-block-content p {
     font-family: Jost;
     font-weight: 500;
     font-style: Medium;
@@ -4052,8 +4053,8 @@ text-component {
     leading-trim: NONE;
     line-height: 28px;
     letter-spacing: 0%;
-}
-
+} */
+ 
 .shopify-section-group-footer-group .menu__heading__default {
     display: contents;
     font-family: Jost;
