@@ -4037,3 +4037,10 @@ text-component {
     font-size: max(1rem, 100%);
   }
 }
+
+
+.shopify-section-group-footer-group .group-block-content {
+    height: 100%;
+    width: 100%;
+    max-width: 367px;
+}
