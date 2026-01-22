@@ -139,7 +139,7 @@
           "type": "menu",
           "name": "t:names.menu",
           "settings": {
-            "menu": "main-menu",
+            "menu": "robin",
             "heading": "",
             "menu_spacing": 12,
             "show_as_accordion": false,
@@ -160,7 +160,7 @@
           "type": "menu",
           "name": "t:names.menu",
           "settings": {
-            "menu": "main-menu",
+            "menu": "ayuda",
             "heading": "",
             "menu_spacing": 12,
             "show_as_accordion": false,
@@ -181,7 +181,7 @@
           "type": "menu",
           "name": "t:names.menu",
           "settings": {
-            "menu": "main-menu",
+            "menu": "contact",
             "heading": "",
             "menu_spacing": 12,
             "show_as_accordion": false,
